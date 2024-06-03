@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan David Ruiz Olmos</h1>
 <h3 align="center">A passionate student software developer and science</h3>
 
-- 🔭 I’m currently working on [learning website](https://github.com/DavidOlmos03/project1_1)
+- 🔭 I’m currently working on learning website
 
 - 🌱 I’m currently learning **Angular, php, js**
 
