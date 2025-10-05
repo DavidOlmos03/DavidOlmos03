@@ -9,6 +9,12 @@
 
 - 📫 How to reach me **juan53557@gmail.com**
 
+- 📫 Check my other GitHub accounts <br>
+[![GitHub - ITM](https://img.shields.io/badge/GitHub-DavidOlmos03-181717?style=for-the-badge&logo=github)](https://github.com/juanruiz309381)
+[![GitHub - UdeA](https://img.shields.io/badge/GitHub-DavidOlmos03-181717?style=for-the-badge&logo=github)](https://github.com/davidROudea03)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juan-david-ruiz-olmos-27ab22260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan david ruiz olmos" height="30" width="40" /></a>
