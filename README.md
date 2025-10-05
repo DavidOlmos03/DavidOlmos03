@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **java, python, Angular, html, css**
 
-- 📫 How to reach me **juan53557@gmail.com**
+- 📫 How to reach me **juan53557@gmail.com** or https://davidolmos-portfolio.netlify.app/about
 
 - 📫 Check my other GitHub accounts <br>
 [![GitHub - ITM](https://img.shields.io/badge/GitHub-juanruiz309381-181717?style=for-the-badge&logo=github)](https://github.com/juanruiz309381) <br>
