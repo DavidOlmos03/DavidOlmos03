@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan David Ruiz Olmos</h1>
 <h3 align="center">A passionate student software developer and science</h3>
 
-- 🔭 I’m currently working on learning website
-
-- 🌱 I’m currently learning **Angular, php, js**
-
-- 💬 Ask me about **java, python, Angular, html, css**
-
 - 📫 How to reach me **juan53557@gmail.com** or https://davidolmos-portfolio.netlify.app/about
 
-- 📫 Check my other GitHub accounts <br>
+- Check my other GitHub accounts <br>
 [![GitHub - ITM](https://img.shields.io/badge/GitHub-juanruiz309381-181717?style=for-the-badge&logo=github)](https://github.com/juanruiz309381) <br>
 [![GitHub - UdeA](https://img.shields.io/badge/GitHub-davidROudea03-181717?style=for-the-badge&logo=github)](https://github.com/davidROudea03)
 
