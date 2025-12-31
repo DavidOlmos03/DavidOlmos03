@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is David Olmos and I'm a Software and Physcis Student, from Colombia</h2>
+<h2 align="left">Hi 👋! My name is David Olmos and I'm a Software and Physics Student, from Colombia</h2>
 
 
 <div>
