@@ -41,6 +41,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
 </div>
+<br clear="both">
+<img src="https://raw.githubusercontent.com/davidolmos03/davidolmos03/output/snake.svg" alt="Snake animation" />
 
 <!--<div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidolmos03&show_icons=true&locale=en&layout=compact" alt="davidolmos03" />
