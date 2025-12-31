@@ -1,8 +1,10 @@
 <h2 align="left">Hi 👋! My name is David Olmos and I'm a Software and Physcis Student, from Colombia</h2>
 
-<img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlhaTdhYm1qaTk0MGR2dGxxZ3BiazB6cmpsOGFobmQ5aDR5cjNwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kImC5CXUWmS2iVkVqe/giphy.gif"  />
+
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="80%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  
+  <img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlhaTdhYm1qaTk0MGR2dGxxZ3BiazB6cmpsOGFobmQ5aDR5cjNwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kImC5CXUWmS2iVkVqe/giphy.gif"  />
 </div>
 
 <h3 align="left">📫 Reach me at:</h3>
